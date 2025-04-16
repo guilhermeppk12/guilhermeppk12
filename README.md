@@ -2,7 +2,7 @@
 
 int main() {
     int numero_aleatorio, tentativa, tentativas = 0;
-    int max_tentativas = 10;
+    int max_tentativas = 5;
 
     srand(time(0));
 
